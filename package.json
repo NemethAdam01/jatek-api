@@ -1,0 +1,25 @@
+{
+  "name": "jatek-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NemethAdam01/jatek-api.git"
+  },
+  "keywords": [],
+  "author": "Németh Ádám",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/NemethAdam01/jatek-api/issues"
+  },
+  "homepage": "https://github.com/NemethAdam01/jatek-api#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
